@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Open+Sans:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', 'Lato', sans-serif;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lato', sans-serif;
+}
+
+.event-style {
+  display: flex;
+}
+
+.event-edit {
+  background-color: #eee;
+  color: black;
+  margin-left: 10px;
+  padding: 0px 4px;
+  border-radius: 5px;
+}
+
+.event-delete {
+   background-color: #ffaaaa;
+   color: black;
+   margin-left: 10px;
+   padding: 0px 4px;
+   border-radius: 5px;
+ }
+
+ .demo-app-main {
+  padding-top: 15px;
+ }

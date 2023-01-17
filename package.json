@@ -1,0 +1,32 @@
+{
+  "name": "nextjs-course",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@babel/preset-react": "^7.18.6",
+    "@nextui-org/react": "^1.0.0-beta.12",
+    "@rmcooper/next-fullcalendar": "^1.0.1",
+    "bcryptjs": "^2.4.3",
+    "bson": "^4.7.2",
+    "classnames": "^2.3.2",
+    "mongodb": "^3.6.10",
+    "next": "latest",
+    "next-auth": "^3.27.2",
+    "next-transpile-modules": "^4.1.0",
+    "react": "17.0.1",
+    "react-bootstrap-sweetalert": "^5.2.0",
+    "react-dom": "17.0.1",
+    "react-redux": "^8.0.5",
+    "reactstrap": "^9.1.5",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.2",
+    "reselect": "^4.1.7",
+    "swr": "^2.0.0",
+    "variables": "^1.0.1"
+  }
+}
